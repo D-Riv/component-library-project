@@ -1,0 +1,66 @@
+button {
+  color: #ffffff;
+  padding: 10px 15px;
+  border: none;
+}
+
+/* Primary */
+.button-primary {
+  background-color: #33a0ff;
+}
+.button-primary:hover {
+  background-color: #2e90e5;
+}
+.button-primary2 {
+  /* background-color: #ffffff; */
+  border: 1px solid #33a0ff;
+}
+
+/*Danger */
+.button-danger {
+  background-color: #ff4858;
+}
+.button-danger:hover {
+  background-color: #f53848;
+}
+
+/*Success */
+.button-success {
+  background-color: #0ad00a;
+}
+.button-success:hover {
+  background-color: #07c107;
+}
+
+/* Warnign */
+.button-warning {
+  background-color: #ffc600;
+}
+.button-warning:hover {
+  background-color: #ebb600;
+}
+
+/* Default */
+.button-default {
+  background-color: #22262a;
+}
+.button-default:hover {
+  background-color: #13161a;
+}
+
+/* Image buttons */
+.button-addcart {
+  background-color: #33a0ff;
+}
+.button-favorites {
+  background-color: #33a0ff;
+}
+.button-like {
+  background-color: #33a0ff;
+}
+.button-cart {
+  background-color: #33a0ff;
+}
+
+
+/*# sourceMappingURL=main.8e250082.chunk.css.map*/
